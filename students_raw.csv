@@ -1,0 +1,63 @@
+student_id,gender,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
+S1000,female,associate's degree,standard,completed,52,68,91
+S1001,male,high school,free/reduced,none,77,91,94
+S1002,male,some college,free/reduced,none,50,50,59
+S1003,female,associate's degree,standard,completed,,94,94
+S1004,female,master's degree,free/reduced,none,79,77,54
+S1005,male,some college,free/reduced,none,49,57,74
+S1006,female,associate's degree,standard,none,86,65,72
+S1007,male,some college,free/reduced,none,67,77,64
+S1008,female,bachelor's degree,free/reduced,none,88,,49
+S1009,female,master's degree,free/reduced,none,47,55,88
+S1010,male,high school,free/reduced,completed,54,83,65
+S1011,male,bachelor's degree,free/reduced,completed,72,83,82
+S1012,male,master's degree,standard,completed,55,55,?
+S1013,male,bachelor's degree,free/reduced,none,63,64,67
+S1014,male,high school,free/reduced,completed,81,62,94
+S1015,male,master's degree,standard,none,52,82,52
+S1016,male,some college,free/reduced,none,82,86,86
+S1017,female,some college,standard,none,50,86,86
+S1018,male,master's degree,standard,none,54,96,67
+S1019,female,high school,standard,completed,77,88,61
+S1020, Female ,associate's degree,free/reduced,none,88,66,48
+S1021,MALE,master's degree,standard,completed,54,55,96
+S1022,female,bachelor's degree,Standard ,none,61,80,97
+S1023,male,associate's degree,standard,Completed,95,95,60
+S1024,male,High School ,free/reduced,none,99,98,49
+S1025,male,high school,free/reduced,none,88 ,61,54
+S1026,female,bachelor's degree,standard,completed,69, 91,51
+S1027,male,some college,standard,completed,64,51,76 
+ S1028 ,male,high school,free/reduced,none,78,57,94
+s1029,female,associate's degree,standard,completed,77,77,55
+S1030,female,master's degree,free/reduced,none,61,77,86
+S1031,female,associate's degree,standard,completed,46,68,57
+S1032,female,associate's degree,free/reduced,completed,53,65,67
+S1033,male,some college,standard,none,97,91,79
+S1034,male,associate's degree,standard,completed,67,73,85
+S1035,female,some college,free/reduced,none,71,90,93
+S1036,male,some college,standard,none,70,98,50
+S1037,male,high school,free/reduced,none,88,65,58
+S1038,female,high school,free/reduced,none,48,60,62
+S1039,male,bachelor's degree,free/reduced,completed,49,97,64
+S1040,female,associate's degree,free/reduced,none,60,81,99
+S1041,male,bachelor's degree,free/reduced,none,71,64,88
+S1042,male,associate's degree,standard,completed,81,81,64
+S1043,female,bachelor's degree,standard,none,71,75,98
+S1044,female,high school,standard,completed,69,95,73
+S1045,male,high school,free/reduced,none,96,62,74
+S1046,female,high school,standard,completed,53,99,70
+S1047,male,high school,standard,completed,76,96,55
+S1048,male,master's degree,standard,completed,74,59,96
+S1049,male,high school,standard,none,71,58,48
+S1050,male,some college,standard,none,89,76,57
+S1051,female,high school,standard,completed,59,52,59
+S1052,female,master's degree,free/reduced,none,97,64,62
+S1053,female,master's degree,free/reduced,completed,63,71,54
+S1054,female,master's degree,free/reduced,none,74,98,48
+S1055,female,master's degree,standard,completed,73,99,83
+S1056,male,bachelor's degree,free/reduced,completed,91,57,98
+S1057,female,bachelor's degree,standard,none,69,94,54
+S1058,male,some college,free/reduced,none,60,54,63
+S1059,male,bachelor's degree,free/reduced,completed,46,87,74
+S1005,male,some college,free/reduced,none,49,57,74
+S1010,male,high school,free/reduced,completed,54,83,65
