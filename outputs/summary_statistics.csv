@@ -1,0 +1,12 @@
+,student_id,gender,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score,average_score,performance_level
+count,60,60,60,60,60,60.0,60.0,60.0,60.0,60
+unique,60,2,5,2,2,,,,,4
+top,S1000,male,high school,free/reduced,none,,,,,good
+freq,1,33,15,31,34,,,,,35
+mean,,,,,,69.51666666666667,75.55,71.06666666666666,72.04383333333334,
+std,,,,,,15.074382430126866,15.382606289936255,16.453186458335917,8.588299113716678,
+min,,,,,,46.0,50.0,48.0,53.0,
+25%,,,,,,54.75,62.0,57.0,67.33,
+50%,,,,,,70.0,77.0,67.0,73.0,
+75%,,,,,,79.5,90.25,86.0,77.7475,
+max,,,,,,99.0,99.0,99.0,89.0,
